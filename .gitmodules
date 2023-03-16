@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "coconots"]
+	path = coconots
+	url = https://github.com/manuhuth/coconots
+	shallow = true
+	registered = true
